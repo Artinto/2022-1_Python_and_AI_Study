@@ -1,8 +1,14 @@
-from __future__ import print_function
-
-if __name__ == '__main__':
-    n = int(raw_input())
+def is_leap(year):
+    leap = False
     
-    print(*(range(1,n+1)), sep='');
-    # *: remove initial and end character
-    # sep='': remove spaces
+    if(year % 400 == 0):
+        leap = True
+    elif(year % 100 == 0):
+        leap = False
+    elif(year % 4 == 0):
+        leap = True
+            
+    return leap
+
+year = int(raw_input())
+print is_leap(year)
