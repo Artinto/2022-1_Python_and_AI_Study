@@ -1,0 +1,4 @@
+n = int(input())
+A = [0 for i in range(n)]
+A = map(int, input().split())
+print(max(A)-1)
