@@ -1,0 +1,13 @@
+A = []
+grades = []
+for i in range(int(input())):
+  name = str(input())
+  grade = float(input())
+  A.append([name, grade])
+  grades.append(grade)
+
+second_lower = sorted(list(set(grades)), key = float)[1]
+print(second_lower)
+for i in range(n):
+  if A[i][1] == second_lower:
+    print(A[i][0])
