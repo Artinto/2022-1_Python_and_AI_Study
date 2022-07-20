@@ -1,0 +1,10 @@
+n = int(input())
+grades = []
+for i in range(n):
+  name,g1,g2,g3 = input().split()
+  g1,g2,g3 = float(g1),float(g2),float(g3)
+  grades.append([name,g1,g2,g3])
+  Name =input()
+for i in range(n): 
+    if grades[i][0] == Name:
+       print(sum(grades[i][1:])/3)
