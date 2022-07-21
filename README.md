@@ -3,7 +3,8 @@
 - [스터디 소개 및 목표](#스터디-소개-및-목표)
 - [스터디 기간](#스터디-기간)
 - [진행 계획](#스터디-진행-계획)
-- [스터디 커리큘럼](#코딩스터디-커리큘럼)
+- [코딩스터디 커리큘럼](#코딩스터디-커리큘럼)
+- [AI스터디 커리큘럼](#인공지능스터디-커리큘럼)
 - [기타 문의](#기타-문의)
 
 
@@ -314,16 +315,16 @@
 <br>
 
 
-## 인공지능 스터디 커리큘럼
+## 인공지능스터디 커리큘럼
 ### ◼ 인공지능 발표 일정 및 발표자 
 > 모집 후 추가 예정
 ### 스터디 시작 전 사전 과제
-22학년도 1학기 전기공학머신러닝실습 과목을 통해 1~6강에 해당되는 내용을 사전 학습, 이에 1~6강에 해당하는 내용은 각자 학습 후 간단한 설명을 OT때 진행하고 넘어갈 예정입니다.
-따라서 스터디원들은 OT 시작전 1~6강을 복습하는 것이 사전 과제입니다. 앞으로 예정되어있는 커리큘럼을 잘 따라가기 위해서는 필수적으로 수행해야하는 과제이므로 꼭 학습 후 OT 참여 바랍니다.
+22학년도 1학기 전기공학머신러닝실습 과목을 통해 1 ~ 6강에 해당되는 내용을 사전 학습, 이에 1 ~ 6강에 해당하는 내용은 각자 학습 후 간단한 설명을 OT때 진행하고 넘어갈 예정입니다.
+따라서 __스터디원들은 OT 시작전 1~6강을 복습하는 것이 사전 과제입니다.__ 앞으로 예정되어있는 커리큘럼을 잘 따라가기 위해서는 필수적으로 수행해야하는 과제이므로 __꼭 학습 후 OT 참여 바랍니다.__
 
 - **과제 공지**
 	- 1 ~ 6강의 유튜브 영상 시청(복습)
-	- 
+	- 예제 코드에 주석 달기(서브)
    <details>
    <summary><strong>main HW</strong></summary>
 	
@@ -334,42 +335,37 @@
 	    > -	4강: [Back-propagation and Autograd](https://www.youtube.com/watch?v=l-Fe9Ekxxj4&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=2)
 		> - 5강: [Linear Regression](https://www.youtube.com/watch?v=113b7O3mabY&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=5)
         > - 6강: [Logistic Regression](https://www.youtube.com/watch?v=GAKTBQn7yKo&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=6)
-	
-	
    </details>
-   
    <details>
    <summary><strong>sub HW</strong></summary>
 	
-	   - [실습] Linear Regression 코드 작성 ([*test-score.csv*](https://github.com/deeplearningzerotoall/PyTorch/blob/master/data-01-test-score.csv) 이용 | [Download](https://github.com/Artinto/Python_and_AI_Study/files/6002122/data-01-test-score.zip))
+	-  예제 코드에 주석 달기 - 	   [*02_manual_gradient.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/02_manual_gradient.py), [*03_auto_gradient.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/03_auto_gradient.py), [*05_linear_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/05_linear_regression.py)
+   
 
-   </details>
-   <details>
-   <summary><strong>sub HW</strong></summary>
-   
-   - [실습] Logistic Regression 코드 작성 ([*diabetes.csv*](https://github.com/deeplearningzerotoall/PyTorch/blob/master/data-03-diabetes.csv) 이용 | [Download](https://github.com/hunkim/PyTorchZeroToAll/files/6022294/diabetes.zip))) + accuracy 확인을 위한 코드 작성
    
 <br>   
 	
 ### OT: AT
 - **스터디 진행**
-  - 1~6강 소개
-  	- 이번 학기 머신러닝 실습수업을 통해 1~6강을 수강완료한 학생들이 많으므로, 간단하게 설명 후 넘어갈 예정
-	- 1 ~ 6강:[발표자료]()
-	
-- **과제 공지**
-   <details>
-   <summary><strong>main HW</strong></summary>
-	   
-	   -  예제 코드에 주석 달기 - [*02_manual_gradient.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/02_manual_gradient.py) , [*03_auto_gradient.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/03_auto_gradient.py), [*05_linear_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/05_linear_regression.py) , [*06_logistic_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/06_logistic_regression.py)
+	- 발표자 정하기
+	- 1~6강 소개
+		- 이번 학기 머신러닝 실습수업을 통해 1~6강을 수강완료한 학생들이 많으므로, 간단하게 설명 후 넘어갈 예정
+		- 1 ~ 6강:[발표자료]()
+	- 예제 코드 발표
 
-	   
-	
+- **과제 공지**
+	- 예제 코드에 주석달기
+	- [실습] Logistic Regression 코드 작성
+	<details>
+	<summary><strong>main HW</strong></summary>
+		
+	-  예제 코드에 주석 달기 - 	   [*06_logistic_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/06_logistic_regression.py)
+	- [실습] Logistic Regression 코드 작성 ([*diabetes.csv*](https://github.com/deeplearningzerotoall/PyTorch/blob/master/data-03-diabetes.csv) 이용 | [Download](https://github.com/hunkim/PyTorchZeroToAll/files/6022294/diabetes.zip))) + accuracy 확인을 위한 코드 작성
+
+	   	
    </details>
    
-   <details>
-   <summary><strong>sub HW</strong></summary>
-   
+
 <br>   
 
 
@@ -380,7 +376,8 @@
 
 ### 1주차: AI
 - **스터디 진행**
-   - 각자 작성한 코드 발표
+	- 예제 코드 발표
+	- 각자 작성한 코드 발표
    
 - **과제 공지**
    - 7~8강 유튜브 강의 시청
