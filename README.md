@@ -399,8 +399,8 @@
    <summary><strong>main HW</strong></summary>
 
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 7~8강 유튜브 강의 시청 (+발표자: 7\~8강 발표 준비)
-      > -   7강: [Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=7) - 김아영
-      > -   8강: [Pytorch Dataloader](https://www.youtube.com/watch?v=zN49HdDxHi8&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=8) - 강재영
+      > -   7강: [Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=7)
+      > -   8강: [Pytorch Dataloader](https://www.youtube.com/watch?v=zN49HdDxHi8&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=8)
    
    -  예제 코드에 주석 달기 - [*07_diabets_logistic.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/07_diabets_logistic.py) , [*08_1_dataset_loader.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/08_1_dataset_loader.py)
 
@@ -443,7 +443,7 @@
    <summary><strong>main HW</strong></summary>
 
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 9강 유튜브 강의 시청 (+발표자: 9강 발표 준비)
-      > -   9강: [Softmax Classifier](https://www.youtube.com/watch?v=lvNdl7yg4Pg&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=9) - 김윤수
+      > -   9강: [Softmax Classifier](https://www.youtube.com/watch?v=lvNdl7yg4Pg&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=9)
    
    -  예제 코드에 주석 달기 - [*09_1_softmax_loss.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_01_softmax_loss.py) , [*09_2_softmax_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_2_softmax_mnist.py)
 
@@ -494,7 +494,7 @@
    <summary><strong>main HW</strong></summary>
 
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 10강 유튜브 강의 시청 (+발표자: 10강 발표 준비)
-      > -   10강: [Basic CNN](https://www.youtube.com/watch?v=LgFNRIFxuUo&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=10) - 봉진훤
+      > -   10강: [Basic CNN](https://www.youtube.com/watch?v=LgFNRIFxuUo&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=10)
    
    -  예제 코드에 주석 달기 - [*10_1_cnn_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/10_1_cnn_mnist.py)
    
@@ -529,7 +529,7 @@
    <summary><strong>main HW</strong></summary>
 
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 11강 유튜브 강의 시청 (+발표자: 11강 발표 준비)
-      > -   11강: [Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=11) - 양윤호
+      > -   11강: [Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=11)
    
    -  예제 코드에 주석 달기 - [*11_1_toy_inception_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/11_1_toy_inception_mnist.py)
 
@@ -584,7 +584,7 @@
    <summary><strong>main HW</strong></summary>
 
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 12강 유튜브 강의 시청 (+발표자: 12강 발표 준비)
-      > -   12강: [RNN 1](https://www.youtube.com/watch?v=ogZi5oIo4fI&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=12) - 김승용
+      > -   12강: [RNN 1](https://www.youtube.com/watch?v=ogZi5oIo4fI&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=12)
    
    -  예제 코드에 주석 달기 - [*12_1_rnn_basics.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/12_1_rnn_basics.py) , [*12_2_hello_rnn.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/12_2_hello_rnn.py)
 
@@ -627,7 +627,7 @@
    <summary><strong>main HW</strong></summary>
 
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 13강 유튜브 강의 시청 (+발표자: 13강 발표 준비)
-      > -   13강: [RNN 2](https://www.youtube.com/watch?v=1vGOQAel2yU&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=13) - 윤나영
+      > -   13강: [RNN 2](https://www.youtube.com/watch?v=1vGOQAel2yU&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=13)
    
    -  예제 코드에 주석 달기 - [*13_1_rnn_classification_basics.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/13_1_rnn_classification_basics.py) , [*13_2_rnn_classification.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/13_2_rnn_classification.py)
 
