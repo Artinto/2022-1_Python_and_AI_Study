@@ -1,0 +1,18 @@
+T = int(input())
+a = 'H'
+
+for i in range(T):
+    print((a*i).rjust(T-1)+a+(a*i).ljust(T-1))
+
+for i in range(T+1):
+    print((a*T).center(T*2)+(a*T).center(T*6))
+
+for i in range((T+1)//2):
+    print((a*T*5).center(T*6))    
+
+
+for i in range(T+1):
+    print((a*T).center(T*2)+(a*T).center(T*6))    
+
+for i in range(T):
+    print(((a*(T-i-1)).rjust(T)+a+(a*(T-i-1)).ljust(T)).rjust(T*6))
