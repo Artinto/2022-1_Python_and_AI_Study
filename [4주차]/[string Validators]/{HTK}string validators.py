@@ -1,0 +1,12 @@
+if __name__ == '__main__':#any함수를 이용해 주어진 조건이 하나라도 안에 잇을시 true출력
+    s = input()
+    a =any(s.isalnum for a in s)
+    print(a)
+    b=any(s.isalpha for b in s)
+    print(b)
+    c=any(s.isdigit for c in s)
+    print(c)
+    d=any(s.islower for d in s)
+    print(d)
+    e=any(s.isupper for e in s)
+    print(e)
