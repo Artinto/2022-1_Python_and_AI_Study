@@ -1,0 +1,31 @@
+import math
+
+class Complex(object):
+    def __init__(self, real, imaginary):
+        self.real=real
+        self.imaginary=imaginary
+    def __add__(self, other):
+        return complex(format(self.real+other.real,self.imag+other.imag))
+    def __sub__(self, other):
+        return complex(format(self.real-other.real,self.imag-other.imag))
+    def __mul__(self, other):
+        r = self.real*other.real-self.imaginary*other.imaginary
+        i = self.imaginary*self.real+other.imaginary*self.real
+        return complex(format(r,i)
+    def __truediv__(self, other):
+        return complex(format(self.real/other.real,self.imag/other.imag))
+    def mod(self,other):
+        return complex(format(self.real+other.real,self.imag+other.imag))
+    def __str__(self):
+        if self.imaginary == 0:
+            result = "%.2f+0.00i" % (self.real)
+        elif self.real == 0:
+            if self.imaginary >= 0:
+                result = "0.00+%.2fi" % (self.imaginary)
+            else:
+                result = "0.00-%.2fi" % (abs(self.imaginary))
+        elif self.imaginary > 0:
+            result = "%.2f+%.2fi" % (self.real, self.imaginary)
+        else:
+            result = "%.2f-%.2fi" % (self.real, abs(self.imaginary))
+        return result
