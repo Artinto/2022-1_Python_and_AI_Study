@@ -1,0 +1,10 @@
+import numpy as np
+m,n = map(int,input().split())
+arr1 = np.array([input().split() for _ in range(m)],int)
+arr2 = np.array([input().split() for _ in range(m)],int)
+print(arr1+arr2)
+print(arr1-arr2)
+print(arr1*arr2)
+print(arr1//arr2)
+print(arr1%arr2)
+print(arr1**arr2)
