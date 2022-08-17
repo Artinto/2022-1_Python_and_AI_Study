@@ -10,4 +10,4 @@ array_2.shape = (m, p)
 print(numpy.concatenate((array_1, array_2), axis=0))
 
 
-# (n+m)*p 형태의 배열로 고쳐야 하므로, shape가 필요하다
+# (n+m)*p 형태의 배열로 수정해야 하므로, shape가 필요하다
