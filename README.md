@@ -356,7 +356,7 @@
    
 <br>   
 	
-### OT: AI
+### 사전 학습 : AI
 - **스터디 진행**
 	- 발표자 정하기
 	- 1~6강 소개
@@ -385,7 +385,7 @@
 	
 
 
-### 1주차: AI
+### OT: AI
 - **스터디 진행**
 	- 예제 코드 발표
 	- 각자 작성한 코드 발표
@@ -427,7 +427,7 @@
 
 
 
-### 2주차: AI
+### 1주차: AI
 - **스터디 진행**
    - 7~8강 발표 & 어려웠던 내용 질문
       - 7강: Wide and Deep
@@ -461,7 +461,7 @@
 
 
 
-### 3주차: AI
+### 2주차: AI
 - **스터디 진행**
    - 9강 발표 & 어려웠던 내용 질문
       - 9강: Softmax Classifier
@@ -476,7 +476,7 @@
    <summary><strong>main HW</strong></summary>
 
    - [실습] CIFAR10 dataset 이용해서 softmax classification 적용해보기
-   -  예제 코드에 주석 달기 - [*09_1_softmax_loss.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_01_softmax_loss.py) , [*09_2_softmax_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_2_softmax_mnist.py)
+   -  예제 코드에 주석 달기 - [*09_1_softmax_loss.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_01_softmax_loss.py)
    
    </details>
    
@@ -485,9 +485,11 @@
 <br>
 
 
-### 4주차: AI
+### 3주차: AI
 - **스터디 진행**
    - 각자 작성한 코드 발표
+   - 지난 주차 예제 코드 돌아가면서 설명
+
    
 - **과제 공지**
 
@@ -497,7 +499,8 @@
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 10강 유튜브 강의 시청 (+발표자: 10강 발표 준비)
       > -   10강: [Basic CNN](https://www.youtube.com/watch?v=LgFNRIFxuUo&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=10)
    
-   -  예제 코드에 주석 달기 - [*10_1_cnn_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/10_1_cnn_mnist.py)
+   -  예제 코드에 주석 달기 - [*09_2_softmax_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_2_softmax_mnist.py)
+	   
    
    <br> 
 
@@ -516,7 +519,7 @@
 <br>
 
 
-### 5주차: AI
+### 4주차: AI
 - **스터디 진행**
    - 10강 발표 & 어려웠던 내용 질문
       - 10강: Basic CNN
@@ -532,7 +535,8 @@
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 11강 유튜브 강의 시청 (+발표자: 11강 발표 준비)
       > -   11강: [Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=11)
    
-   -  예제 코드에 주석 달기 - [*11_1_toy_inception_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/11_1_toy_inception_mnist.py)
+   -  예제 코드에 주석 달기 - [*10_1_cnn_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/10_1_cnn_mnist.py)
+	   
 
    <br> 
 
@@ -555,7 +559,7 @@
 
 
 
-### 6주차: AI
+### 5주차: AI
 - **스터디 진행**
    - 11강 발표 & 어려웠던 내용 질문
       - 11강: Advanced CNN
@@ -569,13 +573,14 @@
    <summary><strong>main HW</strong></summary>
 
    - [실습] 임의의 데이터로 CNN 코드 작성 (전처리 관련 공지 예정)
+   -  예제 코드에 주석 달기 - 
    
    </details>
    
 <br>
 
 
-### 7주차: AI
+### 6주차: AI
 - **스터디 진행**
    - 각자 작성한 코드 발표
    
@@ -587,7 +592,8 @@
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 12강 유튜브 강의 시청 (+발표자: 12강 발표 준비)
       > -   12강: [RNN 1](https://www.youtube.com/watch?v=ogZi5oIo4fI&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=12)
    
-   -  예제 코드에 주석 달기 - [*12_1_rnn_basics.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/12_1_rnn_basics.py) , [*12_2_hello_rnn.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/12_2_hello_rnn.py)
+   -  예제 코드에 주석 달기 - [*11_1_toy_inception_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/11_1_toy_inception_mnist.py)
+	   
 
    <br> 
 
@@ -610,7 +616,7 @@
 
 
 
-### 8주차: AI
+### 7주차: AI
 - **스터디 진행**
    - 12강 발표 & 어려웠던 내용 질문
       - 12강: RNN 1
@@ -630,7 +636,8 @@
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 13강 유튜브 강의 시청 (+발표자: 13강 발표 준비)
       > -   13강: [RNN 2](https://www.youtube.com/watch?v=1vGOQAel2yU&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=13)
    
-   -  예제 코드에 주석 달기 - [*13_1_rnn_classification_basics.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/13_1_rnn_classification_basics.py) , [*13_2_rnn_classification.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/13_2_rnn_classification.py)
+   -  예제 코드에 주석 달기 - [*12_1_rnn_basics.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/12_1_rnn_basics.py) , [*12_2_hello_rnn.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/12_2_hello_rnn.py)
+	    
 
    <br> 
 
@@ -653,7 +660,7 @@
 
 
 
-### 9주차: AI
+### 8주차: AI
 - **스터디 진행**
    - 13강 발표 & 어려웠던 내용 질문
       - 13강: RNN 2
@@ -668,6 +675,7 @@
    <summary><strong>main HW</strong></summary>
 
    - [실습] [주식데이터](https://github.com/deeplearningzerotoall/PyTorch/blob/master/data-02-stock_daily.csv)를 이용한 RNN 코드 작성
+   -  예제 코드에 주석 달기 - [*13_1_rnn_classification_basics.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/13_1_rnn_classification_basics.py) , [*13_2_rnn_classification.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/13_2_rnn_classification.py)
       
    </details>
    
