@@ -431,10 +431,9 @@
 - **스터디 진행**
    - 7~8강 발표 & 어려웠던 내용 질문
       - 7강: Wide and Deep
-        > [7강 발표자료](https://github.com/Artinto/Python_and_AI_Study/files/6221934/wide.and.deep.pptx)
 
       - 8강: Pytorch Dataloader
-        > [8강 발표자료](https://github.com/Artinto/Python_and_AI_Study/files/6221924/8._DataLoader_.pptx)
+        
    - 지난 주차 예제 코드 돌아가면서 설명
    
 - **과제 공지**
@@ -465,7 +464,7 @@
 - **스터디 진행**
    - 9강 발표 & 어려웠던 내용 질문
       - 9강: Softmax Classifier
-        > [9강 발표자료](https://github.com/Artinto/Python_and_AI_Study/files/6221918/softmax.classfier.pptx)
+
 
    
    - 지난 주차 예제 코드 돌아가면서 설명
@@ -523,7 +522,7 @@
 - **스터디 진행**
    - 10강 발표 & 어려웠던 내용 질문
       - 10강: Basic CNN
-        > [10강 발표자료](https://github.com/Artinto/Python_and_AI_Study/files/6221898/Basic.CNN.pptx)
+
    
    - 지난 주차 예제 코드 돌아가면서 설명
    
@@ -563,8 +562,7 @@
 - **스터디 진행**
    - 11강 발표 & 어려웠던 내용 질문
       - 11강: Advanced CNN
-        > [11강 발표자료](https://github.com/Artinto/Python_and_AI_Study/files/6258271/Advanced.CNN.pptx)
-   
+
    - 지난 주차 예제 코드 돌아가면서 설명
    
 - **과제 공지**
@@ -590,7 +588,7 @@
    <summary><strong>main HW</strong></summary>
 
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 12강 유튜브 강의 시청 (+발표자: 12강 발표 준비)
-      > -   12강: [RNN 1](https://www.youtube.com/watch?v=ogZi5oIo4fI&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=12)
+
    
    -  예제 코드에 주석 달기 - [*11_1_toy_inception_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/11_1_toy_inception_mnist.py)
 	   
@@ -620,7 +618,7 @@
 - **스터디 진행**
    - 12강 발표 & 어려웠던 내용 질문
       - 12강: RNN 1
-        > [12강 발표자료](https://github.com/YoungGaLee/my_repository/files/6452192/RNN.pptx)
+
    
    
    - 지난 주차 예제 코드 돌아가면서 설명
@@ -664,7 +662,7 @@
 - **스터디 진행**
    - 13강 발표 & 어려웠던 내용 질문
       - 13강: RNN 2
-        > [13강 발표자료](https://github.com/Artinto/Python_and_AI_Study/files/6493879/RNN2.pptx)
+
 
    
    - 지난 주차 예제 코드 돌아가면서 설명
