@@ -1,0 +1,8 @@
+import numpy
+
+num_A=input().split()
+num_B=input().split()
+A=numpy.array(num_A, int)
+B=numpy.array(num_B, int)
+print(numpy.inner(A,B))
+print(numpy.outer(A,B))
