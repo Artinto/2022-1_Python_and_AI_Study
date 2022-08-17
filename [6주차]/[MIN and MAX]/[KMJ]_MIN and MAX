@@ -1,0 +1,7 @@
+import numpy
+n , m= map(int, input().split())
+arr=numpy.array([input().split() for i in range(n)],int)
+
+print(numpy.max((numpy.min(arr, axis = 1))))
+
+# 행렬의 최소값을 구한 후 최대값을 구한다. axis = 1은 4개의 결과 값
