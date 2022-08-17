@@ -1,0 +1,15 @@
+import numpy
+
+a,b=map(int,input().split())
+
+num_A=[input().split() for _ in range(a)]
+num_B=[input().split() for _ in range(a)]
+A=numpy.array(num_A, int)
+B=numpy.array(num_B, int)
+
+print(numpy.add(A,B))
+print(numpy.subtract(A,B))
+print(numpy.multiply(A,B))
+print(A//B)
+print(numpy.mod(A,B))
+print(numpy.power(A,B))
