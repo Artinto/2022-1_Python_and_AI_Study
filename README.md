@@ -370,7 +370,7 @@
 	<details>
 	<summary><strong>main HW</strong></summary>
 		
-	-  예제 코드에 주석 달기 - 	   [*06_logistic_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/06_logistic_regression.py)
+	-  예제 코드에 주석 달기 - 	   
 	- [실습] Logistic Regression 코드 작성 ([*diabetes.csv*](https://github.com/deeplearningzerotoall/PyTorch/blob/master/data-03-diabetes.csv) 이용 | [Download](https://github.com/hunkim/PyTorchZeroToAll/files/6022294/diabetes.zip))) + accuracy 확인을 위한 코드 작성
 
 	   	
@@ -402,7 +402,7 @@
       > -   7강: [Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=7)
       > -   8강: [Pytorch Dataloader](https://www.youtube.com/watch?v=zN49HdDxHi8&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=8)
    
-   -  예제 코드에 주석 달기 - [*07_diabets_logistic.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/07_diabets_logistic.py) , [*08_1_dataset_loader.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/08_1_dataset_loader.py)
+   -  예제 코드에 주석 달기 - [*06_logistic_regression.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/06_logistic_regression.py)
 
    <br> 
 
@@ -445,7 +445,7 @@
    - [PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) 9강 유튜브 강의 시청 (+발표자: 9강 발표 준비)
       > -   9강: [Softmax Classifier](https://www.youtube.com/watch?v=lvNdl7yg4Pg&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&index=9)
    
-   -  예제 코드에 주석 달기 - [*09_1_softmax_loss.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_01_softmax_loss.py) , [*09_2_softmax_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_2_softmax_mnist.py)
+   -  예제 코드에 주석 달기 - [*07_diabets_logistic.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/07_diabets_logistic.py) , [*08_1_dataset_loader.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/08_1_dataset_loader.py)
 
    <br> 
 
@@ -476,6 +476,7 @@
    <summary><strong>main HW</strong></summary>
 
    - [실습] CIFAR10 dataset 이용해서 softmax classification 적용해보기
+   -  예제 코드에 주석 달기 - [*09_1_softmax_loss.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_01_softmax_loss.py) , [*09_2_softmax_mnist.py*](https://github.com/hunkim/PyTorchZeroToAll/blob/master/09_2_softmax_mnist.py)
    
    </details>
    
