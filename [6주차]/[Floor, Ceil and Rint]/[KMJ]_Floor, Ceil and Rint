@@ -1,0 +1,10 @@
+import numpy
+numpy.set_printoptions(sign='1.13')
+
+array = numpy.array(input().split(),float)
+
+print(numpy.floor(array))
+print(numpy.ceil(array))
+print(numpy.rint(array))
+
+# floor는 소수점 아래 내림, ceil은 올림, rint는 반올림한 것
