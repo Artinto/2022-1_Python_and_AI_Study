@@ -1,0 +1,10 @@
+import numpy
+
+a,b= map(int,input().split())
+
+matrix=[]
+for i in range(a):
+  matrix.append(list(map(int, input().split())))
+arr=numpy.array(matrix)
+print(numpy.transpose(arr))
+print(arr.flatten())
