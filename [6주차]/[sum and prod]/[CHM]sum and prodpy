@@ -1,0 +1,9 @@
+import numpy
+
+a,b=map(int,input().split())
+matrix=[]
+for _ in range(a):
+  matrix.append(list(map(int, input().split())))
+arr1=numpy.array(matrix, int)
+arr2=numpy.sum((arr1),axis=0)
+print(numpy.prod(arr2))
