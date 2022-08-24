@@ -1,0 +1,46 @@
+import math
+import os
+import random
+import re
+import sys
+
+#
+# Complete the 'countingSort' function below.
+#
+# The function is expected to return an INTEGER_ARRAY.
+# The function accepts INTEGER_ARRAY arr as parameter.
+#
+
+def countingSort(arr):
+     cnt = [0] * (max(arr) + 1)
+     output = [0] * (len(arr))
+    
+     for i in arr:
+        cnt[i] += 1
+        
+     total = 0
+     for e in range(len(cnt)):
+        old = cnt[e]
+        cnt[e] = total
+        total += old
+        
+     for i in arr:
+        output[cnt[i]] = i
+        cnt[i] += 1
+        
+     return output
+    # Write your code here
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    n = int(input().strip())
+
+    arr = list(map(int, input().rstrip().split()))
+
+    result = countingSort(arr)
+
+    fptr.write(' '.join(map(str, result)))
+    fptr.write('\n')
+
+    fptr.close()
