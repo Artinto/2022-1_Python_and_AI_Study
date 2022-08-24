@@ -4,7 +4,6 @@ def insertion_sort(l):
         key = l[i]
         while (j >= 0) and (l[j] > key):
            l[j+1] = l[j]
-           l[j]=key
            j -= 1
         l[j+1] = key
 
